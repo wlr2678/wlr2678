@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wlr2678
 - 👀 I’m interested in global aerospace developments, astronomy, navy warships and engineering in general
-- 🌱 I’m about to study aerospace engineering as a third-year undergraduate student in the University of Toronto Engineering Science program
+- 🌱 I’m studying aerospace engineering as a third-year undergraduate student in the University of Toronto Engineering Science program
 - 📫 You can reach me by my school email: linrongdarren.wu@mail.utoronto.ca, or by calling: +1-647-746-5008
 
 <!---
